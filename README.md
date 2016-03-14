@@ -1,6 +1,11 @@
 # QueenTeeth
 Just a local joke, that actually works.
 
+[![License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](https://github.com/JesusLeon/QueenTeeth/blob/master/LICENSE)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-ruby.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+
 ## Install
 Just run the command below and let it initialize:
 ```shell
@@ -33,3 +38,7 @@ Examples:
 
 ## After some weeks...
 ![Time Tracking](http://i.imgur.com/QeDHI3Z.png)
+
+
+## License
+[DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](https://github.com/JesusLeon/QueenTeeth/blob/master/LICENSE)
