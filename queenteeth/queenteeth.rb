@@ -110,7 +110,7 @@ class QueenTeeth
     puts "    queenteeth {case_id} {comment} {time_spent} {entry_date}"
     puts
     puts "\e[1m"+"Examples:"+"\e[22m"
-    puts "    case_id       128"
+    puts "    case_id       128  (FogBugz case)"
     puts "    comment       'Fixing an annoying bug'"
     puts "    time_spent    1.5  (hours)"
     puts "    entry_date    yesterday|'last friday'|'2016-03-14'"
